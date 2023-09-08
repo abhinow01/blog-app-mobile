@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982587669880",
+    "project_id": "blogging-4f499",
+    "storage_bucket": "blogging-4f499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982587669880:android:e99f7850fed83702ea5c8d",
+        "android_client_info": {
+          "package_name": "com.abhinow1.blogappmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982587669880-poc0d1ghjn5hl0gpadg873l818jt2rbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinow1.blogappmobile",
+            "certificate_hash": "34652cbd3294af274168a550fad9f41bf7bc16d4"
+          }
+        },
+        {
+          "client_id": "982587669880-u0nfuqq1rvvk9mri0r4at7urc7nldr36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinow1.blogappmobile",
+            "certificate_hash": "18988499a05a887e6bb9aedabae54c57700a6851"
+          }
+        },
+        {
+          "client_id": "982587669880-o77d6tnqd6jcm4im3i0edqtojbmaqs50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkFJ5MRJKhLty9RRzAtuSKjDfvlliC7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982587669880-mn7josbojudm0p7i8gbuv5anv5vq4s6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
